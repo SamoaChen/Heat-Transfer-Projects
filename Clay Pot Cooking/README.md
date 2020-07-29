@@ -1,2 +1,4 @@
-# Part 1 is heat transfer inside slabs connected in series and in parallel 
-# Part 2 is heat transfer inside a block with a sinusoidal driven boundary
+# This is a project simulating the cooking process of clay pot rice
+* Temperature dependent food thermal properties added
+* Axis symetrical assumption adopted
+* 2D heat transfer circuit
